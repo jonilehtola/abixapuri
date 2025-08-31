@@ -41,6 +41,11 @@ Huomaa, että AbixApurin toimintaa haittaa, mikäli Bittiniilo on aktiivisena se
 
 ### Muutokset
 
+#### v1.3.2.0 (31.8.2025)
+- YTL:n uusien rajapintojen tuki
+- Korjauksia palautusnäkymään
+- Arvosanalaskurin uusi versio vielä hieman keskeneräinen
+
 #### v1.3.0.1 (23.5.2025)
 - Vanhoja ominaisuuksia poistettu
 - Tuki uudelle YTL:n arvioinnille
